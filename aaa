@@ -1,3 +1,3 @@
 git clone https://github.com/ArduCAM/Arducam-Pivariety-V4L2-Driver.git
 cd Arducam-Pivariety-V4L2-Driver/focus
-python3 FocuserExample.py
+python3 FocuserExample.py -d /dev/v4l-subdev1
